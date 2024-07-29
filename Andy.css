@@ -1,0 +1,15 @@
+.layout__center div.layout-tab-container.fn__flex-1 > div.fn__flex-1.fn__none {
+    display: flex !important;
+    min-width: 600px;
+    border-radius: 0.75em;
+    border: 2px solid var(--b3-border-color);
+    margin: 10px;
+}
+
+.layout__center div.layout-tab-container.fn__flex-1 > div.fn__flex-1 {
+    display: flex !important;
+    min-width: 600px;
+    border-radius: 0.75em;
+    border: 2px solid var(--b3-border-color);
+    margin: 10px;
+}
